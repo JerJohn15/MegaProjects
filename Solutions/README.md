@@ -9,21 +9,21 @@ in the [TOC](https://github.com/JerJohn15/Projects):
 
 ```
 //Project Structure
--- Solutions/
----Numbers/
----Algorithms/
----Graph/
----DataStructures/
----Text/
----Networking/
----Classes/
----Threading/
----Web/
----Files/
----Databases/
----Graphics/
----Multimedia/
----Security/
+-Solutions/
+--Numbers/
+--Algorithms/
+--Graph/
+--DataStructures/
+--Text/
+--Networking/
+--Classes/
+--Threading/
+--Web/
+--Files/
+--Databases/
+--Graphics/
+--Multimedia/
+--Security/
 ```
 
 ##Programming languages
