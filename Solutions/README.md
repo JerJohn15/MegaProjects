@@ -34,3 +34,12 @@ For now the programming language of choice will be Java, but as the project evol
 ##Project Solutions
 
 The solutions to each project will be archived here.
+
+
+### Classes
+
+**Product Inventory Project** - [Here](https://github.com/JerJohn15/Bookstore-Website-Simulator) is a bookstore website simulator I made for my Database Management course.
+
+##ToDo
+
+
